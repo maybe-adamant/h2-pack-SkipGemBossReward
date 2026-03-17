@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-SkipGemBossReward"
+name = "SkipGemBossReward"
 versionNumber = "1.0.0"
 description = "Bosses no longer drop gem rewards when using Grave Thirst."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-SkipGemBossReward"
